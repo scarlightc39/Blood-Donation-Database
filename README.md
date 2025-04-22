@@ -36,10 +36,5 @@ blood-management/
 4. Run `node server.js` to start the backend server
 5. Open `http://localhost:3000` in your browser
 
-## Credits
-- Database Creation: Member 1
-- Normalization: Member 2
-- Backend & Queries Implementation: Member 3
-
 ## License
 This project is for educational purposes.
